@@ -17,14 +17,6 @@ it’s recommended to use each of the notebooks in sequence of:
 
 ---
 
-
-### Executive Summary
-
-* INCOMPLETE
----
-
-
-
 ### Results
 *TFIDF Vectorizer used
 
